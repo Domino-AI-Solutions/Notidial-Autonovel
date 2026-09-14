@@ -1,3 +1,5 @@
+<img width="520" height="402" alt="bkNotidial-Autonovel" src="https://github.com/user-attachments/assets/577bb485-65b7-4977-9ddb-07fb76820ea1" />
+
 # Notidial-Autonovel
 
 **An open-source autonomous pipeline for writing, revising, typesetting, illustrating, and narrating complete novels.**
