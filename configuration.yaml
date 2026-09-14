@@ -1,0 +1,11 @@
+fastsd_dir: "C:\\Users\\opera\\OneDrive\\Desktop\\Github-Repository\\fastsdcpu"
+pipelioje_port: 3001
+monitor_interval: 180
+server_name: "default_server"
+auto_launch: false
+
+piper-tts:  "C:\\Users\\opera\\OneDrive\\Desktop\\Github-Repository\\piper1-gpl"
+pipelioje_port: 5000
+monitor_interval: 180
+server_name: "default_server"
+auto_launch: false
